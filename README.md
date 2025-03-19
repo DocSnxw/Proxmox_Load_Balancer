@@ -21,7 +21,7 @@ Un équilibreur de charge automatique pour clusters Proxmox qui optimise la dist
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/proxmox-load-balancer.git
+git clone https://github.com/DocSnxw/proxmox-load-balancer.git
 cd proxmox-load-balancer
 ```
 
@@ -80,7 +80,7 @@ self.node_cpu_capacity = {
 Les contributions sont les bienvenues ! N'hésitez pas à :
 1. Fork le projet
 2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
+3. Commit vos changements (`git commit -m 'Add some Amazing Features'`)
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
