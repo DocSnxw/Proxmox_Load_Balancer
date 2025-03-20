@@ -21,7 +21,7 @@ Un équilibreur de charge automatique pour clusters Proxmox qui optimise la dist
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/DocSnxw/proxmox-load-balancer.git
+git clone https://github.com/DocSnxw/Proxmox_Load_Balancer.git
 cd proxmox-load-balancer
 ```
 
